@@ -12,7 +12,7 @@ cargo run
 ### Tools 
 [Bevy Game Engine](https://bevyengine.org/)
 
-[Game Engine CheatBook](https://bevy-cheatbook.github.io/)
+[Bevy CheatBook](https://bevy-cheatbook.github.io/)
 
 [Pixel Editor](https://github.com/aseprite/aseprite)
 
