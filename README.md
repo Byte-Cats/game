@@ -6,6 +6,12 @@ We're going to build a 2D Multipalyer game in Rust using the Bevy game engine.
 ### Requirements
 Get your system rusty by going [here](https://www.rust-lang.org/en-US/install.html).
 
+### Get Game Code
+```shell
+git clone https://github.com/Byte-Cats/game
+cd game
+```
+
 ### Run Game
 ```shell
 cargo run
