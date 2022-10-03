@@ -4,7 +4,8 @@
 We're going to build a 2D Multipalyer game in Rust using the Bevy game engine. 
 
 Get your system rusty by going [here](https://www.rust-lang.org/en-US/install.html).
-### Run the game
+
+### Run Game
 ```shell
 cargo run
 ```
