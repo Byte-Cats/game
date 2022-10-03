@@ -8,10 +8,8 @@ Get your system rusty by going [here](https://www.rust-lang.org/en-US/install.ht
 ```shell
 cargo run
 ```
-
-## Current Goal:
-# Adding a Texture to the SCREEN!!!
-
+# Current Dev Goal:
+## Adding a Texture to the SCREEN!!!
 
 ### Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
