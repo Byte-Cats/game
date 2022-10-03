@@ -15,8 +15,6 @@ cargo run
 ## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
 
-[Bevy CheatBook](https://bevy-cheatbook.github.io/)
-
 [Pixel Editor](https://github.com/aseprite/aseprite)
 
 [Level Editor](https://ldtk.io/)
@@ -26,6 +24,8 @@ cargo run
 [Image Editor](https://krita.org/en/download/krita-desktop/)
 
 ## Resources
+[Bevy CheatBook](https://bevy-cheatbook.github.io/)
+
 [Free Game Art](https://itch.io/game-assets/free)
 
 [More Free Game Art](https://opengameart.org/)
