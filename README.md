@@ -8,6 +8,8 @@
 
 [Pixel Editor](https://github.com/aseprite/aseprite)
 
+[Level Editor](https://ldtk.io/)
+
 [Sprite Sheet Generator](https://www.codeandweb.com/texturepacker)
 
 [Image Editor](https://krita.org/en/download/krita-desktop/)
