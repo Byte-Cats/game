@@ -1,7 +1,14 @@
 # game
 
 ### Getting Started with Rust and Game Development
-We're going to build a simple game in Rust using the Bevy game engine. [here](https://www.rust-lang.org/en-US/install.html).
+We're going to build a simple game in Rust using the Bevy game engine. 
+
+Get your system rusty by going [here](https://www.rust-lang.org/en-US/install.html).
+### Run the game
+```shell
+cargo run
+```
+
 ### Tools 
 [Game Engine](https://bevyengine.org/)
 
