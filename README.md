@@ -10,7 +10,7 @@ cargo run
 ```
 
 ### Tools 
-[Game Engine](https://bevyengine.org/)
+[Bevy Game Engine](https://bevyengine.org/)
 
 [Game Engine CheatBook](https://bevy-cheatbook.github.io/)
 
