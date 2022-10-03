@@ -11,7 +11,7 @@ cargo run
 # Current Dev Goal:
 - Adding a Texture to the SCREEN!!!
 
-### Dev Tools 
+## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
 
 [Bevy CheatBook](https://bevy-cheatbook.github.io/)
@@ -24,7 +24,7 @@ cargo run
 
 [Image Editor](https://krita.org/en/download/krita-desktop/)
 
-### Resources
+## Resources
 [Free Game Art](https://itch.io/game-assets/free)
 
 [More Free Game Art](https://opengameart.org/)
