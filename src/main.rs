@@ -19,7 +19,7 @@ fn main() {
         // .add_startup_system(spawn_camera)
         .add_plugins(DefaultPlugins)
         .add_plugin(RPCPlugin(RPCConfig {
-            app_id: 965125975941709834,
+            app_id: 388338871475240965,
             show_time: true,
         }))
         .run();
