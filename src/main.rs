@@ -1,4 +1,4 @@
-use bevy::prelude::*;
+use bevy::{prelude::*, render::camera::ScalingMode};
 use bevy_discord_presence::config::{RPCConfig, RPCPlugin};
 
 pub const CLEAR_COLOR: Color = Color::rgb(0.1, 0.1, 0.1);
@@ -16,7 +16,7 @@ fn main() {
             resizable: false,
             ..Default::default()
         })
-        // .add_startup_system(spawn_camera)
+        .add_startup_system(spawn_camera)
         .add_plugins(DefaultPlugins)
         .add_plugin(RPCPlugin(RPCConfig {
             app_id: 388338871475240965,
@@ -25,13 +25,13 @@ fn main() {
         .run();
 }
 
-//
-// fn spawn_camera(mut commands: Commands) {
-//     let mut camera =
-//     camera.orthographic_projection.top = 1.0;
-//     camera.orthographic_projection.bottom = -1.0;
-//     camera.orthographic_projection.left = -1.0 *RESOLUTION;
-//     camera.orthographic_projection.right = 1.0 *RESOLUTION;
-//
-//     //commands.spawn_bundle(camera);
-// }
+
+fn spawn_camera(mut commands: Commands) {
+    let mut camera = Camera2dBundle::default();
+    camera.projection.top = 1.0;
+    camera.projection.bottom = -1.0;
+    camera.projection.left = -1.0 *RESOLUTION;
+    camera.projection.right = 1.0 *RESOLUTION;
+    camera.projection.scaling_mode = ScalingMode::None;
+    commands.spawn_bundle(camera);
+}
