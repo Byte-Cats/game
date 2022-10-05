@@ -185,6 +185,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "bevy-discord-presence"
+version = "0.3.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d0dd3e539d61a95ba6709e931ab8c3dfed39653efdc3581c4c851165eb1cb479"
+dependencies = [
+ "bevy",
+ "discord-presence",
+ "parking_lot 0.12.1",
+]
+
+[[package]]
 name = "bevy_animation"
 version = "0.8.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1250,6 +1261,27 @@ dependencies = [
 ]
 
 [[package]]
+name = "discord-presence"
+version = "0.5.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4d035cf615f059838d2e2a12eed3aca4bef28e09cfb581e6cf17391e3072c9a2"
+dependencies = [
+ "byteorder",
+ "bytes",
+ "cfg-if 1.0.0",
+ "crossbeam-channel",
+ "named_pipe",
+ "num-derive",
+ "num-traits",
+ "parking_lot 0.12.1",
+ "serde",
+ "serde_json",
+ "thiserror",
+ "tracing",
+ "uuid",
+]
+
+[[package]]
 name = "dispatch"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1435,6 +1467,7 @@ name = "game"
 version = "0.1.0"
 dependencies = [
  "bevy",
+ "bevy-discord-presence",
 ]
 
 [[package]]
@@ -1999,6 +2032,15 @@ dependencies = [
  "termcolor",
  "thiserror",
  "unicode-xid",
+]
+
+[[package]]
+name = "named_pipe"
+version = "0.4.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ad9c443cce91fc3e12f017290db75dde490d685cdaaf508d7159d7cf41f0eb2b"
+dependencies = [
+ "winapi",
 ]
 
 [[package]]
