@@ -1,0 +1,38 @@
+#   Here we do contain settings to the game
+#   It is recommended to minimize uncertainty, by making players be able to use
+#   sliders as settings setters.
+#
+# General
+#
+# Language="En"
+# Subtitles="ON"
+#
+#   The fact that the game is 2D makes it's graphics settings less roomy
+# Graphics
+# 
+# Quality=100
+# Screen_mode="Fullscreen"
+#
+#   Sound is one of the most important things in the game,but out settings won't change much by players(I guess)
+# Sound
+#
+# General_Volume=100
+# Sounds=100
+# Music=100
+# Voices=100
+# Environment=100
+#
+#   Here we should make it available for players to remap controls
+# Keybindings
+#
+# Move_Forward="W"
+# Move_Backward="S"
+# Move_Left="A"
+# Move_Right="D"
+# Interact="E"
+# Open_Inventory="TAB"
+# Open_Map="M"
+# Level_Up_Menu="P"
+# Open_Chat="T"
+# 
+# 

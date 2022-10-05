@@ -39,4 +39,4 @@ cargo run
 
 [More Free Game Art](https://opengameart.org/)
 
-
+[GameDesignBasics](https://gameaccessibilityguidelines.com/basic/)
