@@ -1,5 +1,5 @@
 # game
-
+## Game is good... We love game.. and you will f32 too.
 ### Getting Started with Rust and Game Development
 We're going to build a 2D Multipalyer game in Rust using the Bevy game engine. 
 
