@@ -1,6 +1,6 @@
 # game
 
-![Cat Tails MMO](https://imgs.search.brave.com/YuGdpoCxALYk_krxLSxmhP05czvbBIceNcMiMfWFjxA/rs:fit:735:408:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8yNi8yNi9kZS8y/NjI2ZGVjMGU4YmIw/ODZmNmJlOGQ3YjEz/YjE3YjYyNS5qcGc)
+![COOKIE CAT](https://64.media.tumblr.com/dfcbdd51113602b869a7a0e84ada1802/tumblr_nh9z41SgBW1qbc4veo1_500.png)
 
 ## Game is good... We love game.. and you'll f32 too.
 ### Getting Started with Rust and Game Development
