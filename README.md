@@ -1,4 +1,5 @@
 # game
+[![CodeQL](https://github.com/Byte-Cats/game/actions/workflows/codeql.yml/badge.svg)](https://github.com/Byte-Cats/game/actions/workflows/codeql.yml)
 
 ![Cat Tails MMO](https://imgs.search.brave.com/YuGdpoCxALYk_krxLSxmhP05czvbBIceNcMiMfWFjxA/rs:fit:735:408:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8yNi8yNi9kZS8y/NjI2ZGVjMGU4YmIw/ODZmNmJlOGQ3YjEz/YjE3YjYyNS5qcGc)
 
