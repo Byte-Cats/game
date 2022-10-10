@@ -1,4 +1,7 @@
 # game
+[![rust-clippy analyze](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml/badge.svg)](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml)
+[![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/byte-cats/game)](https://rust-reportcard.xuri.me/report/github.com/byte-cats/game)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ![Cat Tails MMO](https://imgs.search.brave.com/YuGdpoCxALYk_krxLSxmhP05czvbBIceNcMiMfWFjxA/rs:fit:735:408:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8yNi8yNi9kZS8y/NjI2ZGVjMGU4YmIw/ODZmNmJlOGQ3YjEz/YjE3YjYyNS5qcGc)
 
