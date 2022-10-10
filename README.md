@@ -24,7 +24,7 @@ cargo run
 ```
 # Current Dev Goal:
 - [x] Adding Ortho Camera Object
-- [ ] Adding a Texture to the SCREEN!!!
+- [x] Adding a Texture to the SCREEN!!!
 - [x] Discord Presence
 
 ## Dev Tools 
