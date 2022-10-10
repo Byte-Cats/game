@@ -15,6 +15,10 @@ use bevy::transform::components::Transform;
 
 // Where we add the code to use sprites
 const FILENAME: &str = "glyph12.png";
+
+//  Choices for icon selection (0-51)
+const ICON_SELECTION: i16 = 2;
+
 pub struct NewGuy(Handle<TextureAtlas>);
 
 pub fn load_sprite_sheet(
@@ -37,7 +41,7 @@ pub fn load_sprite_sheet(
 	}
 
 pub fn spawn_sprite(mut commands: Commands, spreets: Res<NewGuy>){
-	let mut sprite = TextureAtlasSprite::new(6);
+	let mut sprite = TextureAtlasSprite::new(ICON_SELECTION);
 	sprite.color = Color::rgb(0.73, 0.114, 0.224);
 	sprite.custom_size = Some(Vec2::splat(1.0));
 	commands.spawn_bundle(SpriteSheetBundle{

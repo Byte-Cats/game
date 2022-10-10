@@ -10,18 +10,18 @@ mod discord;
 use discord::discord;
 
 pub const CLEAR_COLOR: Color = Color::rgb(0.1, 0.1, 0.1);
+pub const WINDOW_HEIGHT: f32 = 600.0;
 
 // Code for gooming
 pub fn goom() {
-    let height: f32 = 600.0;
 
     App::new()
         .insert_resource(ClearColor(CLEAR_COLOR))
         .insert_resource(WindowDescriptor {
             title: "Byte Cats".to_string(),
             present_mode: bevy::window::PresentMode::AutoVsync,
-            width: height * RESOLUTION,
-            height,
+            width: WINDOW_HEIGHT* RESOLUTION,
+            height: WINDOW_HEIGHT,
             resizable: false,
             ..Default::default()
         })
