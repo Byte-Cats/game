@@ -1,5 +1,8 @@
 # game
 
+![Cat Tails MMO](https://imgs.search.brave.com/YuGdpoCxALYk_krxLSxmhP05czvbBIceNcMiMfWFjxA/rs:fit:735:408:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8yNi8yNi9kZS8y/NjI2ZGVjMGU4YmIw/ODZmNmJlOGQ3YjEz/YjE3YjYyNS5qcGc)
+
+## Game is good... We love game.. and you'll f32 too.
 ### Getting Started with Rust and Game Development
 We're going to build a 2D Multipalyer game in Rust using the Bevy game engine. 
 
