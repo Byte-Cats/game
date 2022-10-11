@@ -17,7 +17,7 @@ use bevy::transform::components::Transform;
 const FILENAME: &str = "glyph12.png";
 
 //  Choices for icon selection (0-51)
-const ICON_SELECTION: i16 = 2;
+const ICON_SELECTION: usize = 2;
 
 pub struct NewGuy(Handle<TextureAtlas>);
 
