@@ -23,9 +23,7 @@ cd game
 cargo run
 ```
 # Current Dev Goal:
-- [x] Adding Ortho Camera Object
-- [x] Adding a Texture to the SCREEN!!!
-- [x] Discord Presence
+
 
 ## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
