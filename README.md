@@ -1,3 +1,5 @@
+<div align="center";>
+
 # game
 [![rust-clippy analyze](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml/badge.svg)](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml)
 [![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/byte-cats/game)](https://rust-reportcard.xuri.me/report/github.com/byte-cats/game)
@@ -44,3 +46,5 @@ cargo run
 [More Free Game Art](https://opengameart.org/)
 
 [GameDesignBasics](https://gameaccessibilityguidelines.com/basic/)
+
+<div/>
