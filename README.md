@@ -23,7 +23,7 @@ cd game
 cargo run
 ```
 # Current Dev Goal:
-
+Create player controller and move the player around
 
 ## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
