@@ -25,7 +25,10 @@ cd game
 cargo run
 ```
 # Current Dev Goal:
-Create player controller and move the player around
+- Create player controller and move the player around
+- Gamepad Compatibility
+- Game Window Exit Keybinding
+
 
 ## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
