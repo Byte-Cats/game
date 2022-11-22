@@ -1,5 +1,7 @@
 <div align="center";>
 
+![mimi](https://imgs.search.brave.com/-RK5pZp1s3urqeMCEPLuiiajAl4uYKpvxx5vBK8dOZI/rs:fit:278:179:1/g:ce/aHR0cHM6Ly9hdmF0/YW5wbHVzLmNvbS9m/aWxlcy9yZXNvdXJj/ZXMvb3JpZ2luYWwv/NTgyYzhmZWRiOTEz/MjE1ODZlMTIzOGJl/LnBuZw)
+
 # game
 [![rust-clippy analyze](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml/badge.svg)](https://github.com/Byte-Cats/game/actions/workflows/rust-clippy.yml)
 [![Rust Report Card](https://rust-reportcard.xuri.me/badge/github.com/byte-cats/game)](https://rust-reportcard.xuri.me/report/github.com/byte-cats/game)
@@ -23,7 +25,10 @@ cd game
 cargo run
 ```
 # Current Dev Goal:
-Create player controller and move the player around
+- Create player controller and move the player around
+- Gamepad Compatibility
+- Game Window Exit Keybinding
+
 
 ## Dev Tools 
 [Bevy Game Engine](https://bevyengine.org/)
