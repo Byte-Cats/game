@@ -39,7 +39,7 @@ pub fn goom() {
         .run();
 }
 
-/// This system prints 'A' key state
+/// This system checks key states each frame and does something if the specified key is pressed
 fn keyboard_input_system(keyboard_input: Res<Input<KeyCode>>) {
     // exit program if control + q is pressed
     // wait for key up event to prevent multiple exits
@@ -48,6 +48,11 @@ fn keyboard_input_system(keyboard_input: Res<Input<KeyCode>>) {
         println!("Exiting program");
         // exit the process
         std::process::exit(0);
+    }
+    if keyboard_input.just_pressed(KeyCode::Escape) {
+        // pause the bevy game
+        // spawn a pause menu
+        println("Paused");
     }
 }
 
